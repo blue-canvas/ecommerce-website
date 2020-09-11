@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "Online Web Shopping Portal for customers to shop  clothing from Neelkund Fab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue-canvas/ecommerce-website.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "Website",
+    "Online"
+  ],
+  "author": "Manasi Mulay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blue-canvas/ecommerce-website/issues"
+  },
+  "homepage": "https://github.com/blue-canvas/ecommerce-website#readme"
+}
